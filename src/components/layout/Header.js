@@ -3,10 +3,10 @@ import { Search, Phone, Mail, Menu, Facebook, Twitter, Linkedin, Youtube, Instag
 import Logo from './Logo'; // Adjust this import based on your file structure
 import NavLink from './NavLink';
 
-import { Input } from './ui/input';
-import { Sheet, SheetContent, SheetTrigger } from './ui/sheet';
-import { Separator } from './ui/separator';
 import { Button } from '../ui/Button';
+import { Input } from '../ui/Input';
+import { Sheet, SheetContent, SheetTrigger } from '../ui/Sheet';
+import { Separator } from '../ui/Separator';
 
 
 const navItems = [
