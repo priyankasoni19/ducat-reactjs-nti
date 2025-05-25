@@ -2,10 +2,12 @@ import { useState, useEffect } from 'react';
 import { Search, Phone, Mail, Menu, Facebook, Twitter, Linkedin, Youtube, Instagram } from 'lucide-react';
 import Logo from './Logo'; // Adjust this import based on your file structure
 import NavLink from './NavLink';
-import { Button } from './ui/button';
+
 import { Input } from './ui/input';
 import { Sheet, SheetContent, SheetTrigger } from './ui/sheet';
 import { Separator } from './ui/separator';
+import { Button } from '../ui/Button';
+
 
 const navItems = [
   { name: 'Home', href: '/' },
