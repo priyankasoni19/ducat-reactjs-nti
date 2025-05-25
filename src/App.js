@@ -6,6 +6,8 @@ import PlacementSection from './components/sections/PlacementSection';
 import TestimonialsSection from './components/sections/TestimonialsSection';
 import RecruitersSection from './components/sections/RecruitersSection';
 
+
+
 function App() {
   return (
     <div>
