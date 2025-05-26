@@ -7,6 +7,7 @@ import TestimonialsSection from './components/sections/TestimonialsSection';
 import RecruitersSection from './components/sections/RecruitersSection';
 import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
+import OnlineRegistration from './components/sections/OnlineRegistration';
 
 
 
@@ -20,6 +21,9 @@ function App() {
       <PlacementSection />
       <TestimonialsSection />
       <RecruitersSection />
+<OnlineRegistration />
+
+
        <Footer/>
     </div>
   );
