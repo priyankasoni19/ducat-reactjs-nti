@@ -23,7 +23,7 @@ function App() {
       <PlacementSection />
       <TestimonialsSection />
       <RecruitersSection />
-<OnlineRegistration />
+// <OnlineRegistration />
 
 
        <Footer/> */}
